@@ -1,0 +1,57 @@
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.SuccessDiv{
+  background-color: aquamarine;
+  height: auto;
+  padding: 30px;
+  text-align: center;
+  font-size: large;
+  font-family: sans-serif;
+  display: block;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.StepForm{
+  padding: 22px;
+  margin-bottom: 150px;
+  background-color:white;
+  
+}
+.styleTab{
+margin-left: 250px;
+margin-top: 60px;
+margin-bottom: 20px;
+border-radius: 20px;
+background-color: mediumaquamarine;
+width: 400px;
+padding: 50px;
+opacity: 0.8;
+text-align: justify;
+color: black;
+}
+.trStyle{
+margin-bottom: 30px;
+}
+.styldiv{
+  padding-top: 30px;
+  background-color: mediumaquamarine;
+  border-radius: 30px;
+  width: 800px;
+  margin-left: 120px;
+}
+.h4{
+
+
+  color: white;
+}
+
+.esp{
+padding-left: 50px;
+color :white;
+}
